@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055763872449",
+    "project_id": "panda-f6c70",
+    "storage_bucket": "panda-f6c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055763872449:android:67e08cbc07cb089cf37240",
+        "android_client_info": {
+          "package_name": "com.rushi.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJb7B0KNIVsgN5-C2z72zEZs-3UE1BhAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
